@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/mangohud?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/mangohud?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/mangohud?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/mangohud/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/mangohud?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/mangohud/issues"><img src="https://img.shields.io/github/issues/catppuccin/mangohud?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/mangohud/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/mangohud?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -36,8 +36,10 @@
 
 ## Usage
 
-1. Download the flavor of your choice.
-2. Place the file in `~/.config/MangoHud/`
+1. Choose the flavor of your choice from the [themes](./themes) directory.
+2. Download the `MangoHud.conf` file to `~/.config/MangoHud/`
+
+> [!IMPORTANT]
 > For Per-application configuration, follow the [Hud configuration](https://github.com/flightlessmango/MangoHud#hud-configuration) section and paste the content of the theme file inside.
 
 <!-- The FAQ section is optional. Remove if needed.-->
