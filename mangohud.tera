@@ -50,6 +50,7 @@ fps_color_change={{ red.hex }},{{ yellow.hex }},{{ green.hex }}
 ## Wine ##
 wine
 wine_color={{ red.hex }}
+winesync
 
 ## Frame timing ##
 frame_timing
